@@ -9,8 +9,8 @@
             "request": "launch",
             "name": "Launch Chrome against localhost",
             "url": "http://localhost:8080",
-            "webRoot": "D:/황수민/프로그래밍/WebProject/WEB-PROJECT",
-            "file":"D:/황수민/프로그래밍/WebProject/WEB-PROJECT/main.html"
+            "webRoot": "D:/황수민/프로그래밍/WebProject/WEB-PROJECT/project1",
+            "file":"D:/황수민/프로그래밍/WebProject/WEB-PROJECT/project1/main_kidsgao.html"
         }
     ]
 }
